@@ -99,7 +99,7 @@ RockPaperScissorPygame/
 ```
 
 ## Authors
-
+* Please context Dao Duy Lam to get the serviceAccountKey to play network
 - **Dao Duy Lam** — daoduylam2020@gmail.com
 - **Pham Minh Khoi** — phamminhkhoi10122008@gmail.com
 - **Le Cong Tien** — ltien9505@gmail.com
